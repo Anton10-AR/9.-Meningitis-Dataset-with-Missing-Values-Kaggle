@@ -1,1 +1,3 @@
 # 9.-Meningitis-Dataset-with-Missing-Values-Kaggle
+
+El Meningitis Dataset with Missing Values es un conjunto de datos disponible en Kaggle orientado al análisis médico y estadístico que contiene información sobre pacientes relacionada con factores de riesgo y condiciones asociadas a la meningitis, incluyendo variables como hábitos (por ejemplo, tabaquismo o sueño), características clínicas y una variable de resultado que presenta valores faltantes de forma intencional; esta presencia de datos incompletos lo hace especialmente útil para estudiar técnicas de imputación, modelos robustos frente a datos faltantes y análisis exploratorio en contextos de salud, siendo empleado principalmente en tareas de clasificación o modelado estadístico dentro del aprendizaje automático.
